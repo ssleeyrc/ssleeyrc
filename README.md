@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sheri</h1>
 - 🌱 I’m currently learning **Next.js, firebase, typescript**
-
-- 💬 Ask me about **React**
-
 - 📫 How to reach me **yinyungsharee08@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
