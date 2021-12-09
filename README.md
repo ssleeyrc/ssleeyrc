@@ -1,5 +1,5 @@
 <h3 align="center">Hi 👋, I'm Sheri</h3>
-🌱 I’m currently learning <strong> Next.js, Firebase, TypeScript </strong><br/>
+🌱 I’m currently learning <strong> Next.js, TypeScript </strong><br/>
 🚦 Currently open to <strong>Software Engineering</strong> positions 
 
 <h4 align="left">Connect with me:</h4>
